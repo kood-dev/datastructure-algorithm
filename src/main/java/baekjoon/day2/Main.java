@@ -1,4 +1,4 @@
-package baekjoon.chess;
+package baekjoon.day2;
 
 import java.util.Scanner;
 
